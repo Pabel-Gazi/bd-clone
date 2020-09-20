@@ -25,14 +25,14 @@
 
        $ pip2 install mechanize
 
-       $ git clone https://github.com/Pabel-Gazi/P06
+       $ git clone https://github.com/Pabel-Gazi/bd-clone
 
 
                    Tools Run :
 
-       $ ls && cd P06 && ls
+       $ ls && cd bd-clone && ls
 
-       $ python2 P06.py
+       $ python2 bd.py
  
          Tools Passwords :[Guess You]
 
