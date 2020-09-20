@@ -43,8 +43,6 @@
 
 ## Warning
 
-#### Don't try to edit or modify this tool.
-This tool is only for educational purpose. 
-If you use this tool for other purposes except education we will not be responsible in such cases.
+#### Don't try to edit or modify this tool.This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
 
 
